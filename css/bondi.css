@@ -123,3 +123,8 @@ body {
     transform: translateX(0);
 }
 /* end ourwork */
+/* start stuff */
+.stuff .description {
+    max-width: 500px;
+}
+/* end stuff */
